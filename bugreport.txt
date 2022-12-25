@@ -1,0 +1,13 @@
+bug_id
+      title
+      summary
+      enviroment
+      steps to reproduce
+      precondition
+      severity
+      priority
+      attachments
+      actual result
+      expected result
+      author
+      assignet to
